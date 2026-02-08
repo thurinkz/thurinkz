@@ -18,4 +18,4 @@
 - GitHub: [@thurinkz](https://github.com/thurinkz).
 - E-mail: arthur.sgbarreto@gmail.com
 
-![Gamer](https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif)
+![Building](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
