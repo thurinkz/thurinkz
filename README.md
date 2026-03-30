@@ -1,4 +1,4 @@
-![coding] (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDc2MTF5Y3F2bTNia3J3b2hmaW55bG0zbHdjazdvbzVud2NrMzh1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif)
+![coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDc2MTF5Y3F2bTNia3J3b2hmaW55bG0zbHdjazdvbzVud2NrMzh1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 # 👋 Olá, eu sou o Arthur
 
