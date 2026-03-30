@@ -1,21 +1,47 @@
-# 👋 Olá! Eu sou Arthur
+# 👋 Olá, eu sou o Arthur
 
-🚀 **Desenvolvedor Web** | 🌱 **Aprendendo HTML, CSS e JavaScript**
+💻 Estudante de Desenvolvimento Front-End
+🎓 Cursando Engenharia de Software
+🚀 Focado em evoluir e conquistar minha primeira oportunidade como desenvolvedor
+
+---
+
+## 🧠 Sobre mim
+
+Atualmente estou estudando desenvolvimento web e criando projetos para praticar e melhorar minhas habilidades.
+
+---
 
 ## 🛠️ Tecnologias
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
 
+* HTML
+* CSS
+* JavaScript (em aprendizado)
 
-## 📚 Estou Aprendendo
-- React
-- APIs
-- Design Responsivo
+---
+
+## 📂 Projetos
+
+🔐 Tela de Login
+👉 (https://thurinkz.github.io/site-de-login/)
+
+---
+
+## 📈 Em desenvolvimento
+
+* 🌐 Novos projetos em breve...
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como desenvolvedor para aprender na prática e evoluir constantemente.
+
+---
 
 ## 📫 Contato
-- GitHub: [@thurinkz](https://github.com/thurinkz).
-- E-mail: arthur.sgbarreto@gmail.com
 
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+📧 [arthur.sgbarreto@gmail.com](arthur.sgbarreto@gmail.com)
+💼 LinkedIn: (https://www.linkedin.com/in/thurinkz/)
+
+---
