@@ -44,6 +44,7 @@ Busco minha primeira oportunidade como desenvolvedor para aprender na prática e
 ## 📫 Contato
 
 📧 [arthur.sgbarreto@gmail.com](arthur.sgbarreto@gmail.com)
+
 💼 LinkedIn: (https://www.linkedin.com/in/thurinkz/)
 
 ---
