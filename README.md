@@ -25,7 +25,7 @@ Atualmente estou estudando desenvolvimento web e criando projetos para praticar 
 ## 📂 Projetos
 
 🔐 Tela de Login
-👉 (https://thurinkz.github.io/site-de-login/)
+👉 https://thurinkz.github.io/site-de-login/
 
 ---
 
@@ -45,6 +45,6 @@ Busco minha primeira oportunidade como desenvolvedor para aprender na prática e
 
 📧 [arthur.sgbarreto@gmail.com](arthur.sgbarreto@gmail.com)
 
-💼 LinkedIn: (https://www.linkedin.com/in/thurinkz/)
+💼 LinkedIn: https://www.linkedin.com/in/thurinkz/
 
 ---
