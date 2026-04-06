@@ -18,7 +18,8 @@ Atualmente estou estudando desenvolvimento web e criando projetos para praticar 
 
 * HTML
 * CSS
-* JavaScript (em aprendizado)
+* JavaScript 
+* Java
 
 ---
 
