@@ -28,6 +28,9 @@ Atualmente estou estudando desenvolvimento web e criando projetos para praticar 
 🔐 Tela de Login
 👉 https://thurinkz.github.io/site-de-login/
 
+💈 BarberPro
+👉 https://thurinkz.github.io/modelo-de-barbearia/
+
 ---
 
 ## 📈 Em desenvolvimento
